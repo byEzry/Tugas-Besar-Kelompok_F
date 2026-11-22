@@ -51,4 +51,4 @@ int hitungJumlahNode(BST T);
 void createDataTiket(infotype_tiket &x);
 
 
-#endif // NILAIBST_H_INCLUDED
+#endif // TIKET_BST_H_INCLUDED
